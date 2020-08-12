@@ -1,7 +1,7 @@
 # REC
 Reverse Engineering Code
 
-# Note Taker App
+
 
 
 
@@ -9,7 +9,7 @@ Reverse Engineering Code
   ![GitHub license](https://img.shields.io/badge/license-Creative%20Commons%20Zero%20v1.0%20Universal-blue.svg)
 
   ## Description
-  Note taker can be used to write, save and delte notes. This application will use an express backend and save and retrieve note data from a JSON file.
+ Reverse engineer the starter code provided and create a tutorial for the code.
 
   ![Demo](Demo/note-taker-demo.gif)
 
@@ -44,7 +44,7 @@ Reverse Engineering Code
   ```
 
   ### Usage
-  Note Taker
+  Walk-through of the codebase
   
   
   ### License
@@ -57,7 +57,7 @@ Reverse Engineering Code
   ### Tests
      
       
-      `  npm test
+      `  
 
         node server`
       
